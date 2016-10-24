@@ -1,0 +1,20 @@
+maxwarns: 3
+#Let it '' to don't send nothing
+#it will show when player banned
+buymessage: Buy unban in: Site not fully setup!
+playerwarned: Player warned with success!
+recivedwarning: You receivied a warning
+#%a will be replaced for customactiontext
+warnfailuserbanned: This player has been %a
+palyernotfound: Sorry, That player Could not be found!
+removedwarn: Remove 1 warn of this player
+removedwarnuser: Admin remove 1 of yours warnings
+negativewarning: Can not set negative warnings
+#Do you want a custom action? If not it will ban the player
+customaction: true
+#The custom action command. %p to get player name
+customcommand: deop %p
+#Text that will be complemented in the "youwaswarned" message(will replace the "%a")
+customactiontext: deopped
+#If you don't want a custom action just remove the '%a' and write banned
+youwaswarned: You have been warned %w times. You have been %a.
